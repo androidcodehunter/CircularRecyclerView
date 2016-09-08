@@ -19,4 +19,8 @@
 /.gradle/2.8/taskArtifacts/fileHashes.bin
 /.gradle/2.8/taskArtifacts/fileSnapshots.bin
 /.gradle/2.8/taskArtifacts/taskArtifacts.bin
+<<<<<<< HEAD
 .gradle/2.8/taskArtifacts/cache.properties
+=======
+.gradle/2.8/taskArtifacts/cache.properties
+>>>>>>> f89f062f4b858bd84df291d2513c52caf8380355
